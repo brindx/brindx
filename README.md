@@ -2,39 +2,39 @@
 
 # Carlos Brindis
 
-### Software Engineer · AI · Systems
+### Ingeniero de Software · IA · Sistemas
 
-Building software products with a focus on architecture, user experience, automation and scalable systems.
+Construyendo productos de software con enfoque en arquitectura, experiencia de usuario, automatización y sistemas escalables.
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brindx)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosbrindis678@gmail.com)
+[![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosbrindis678@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=brindx&style=flat-square&color=5865F2)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=brindx&style=flat-square&color=5865F2)
 
 </div>
 
 ---
 
-## About
+## Sobre mí
 
-I'm a Software Engineer focused on building modern digital products, web applications, mobile applications and intelligent systems.
+Soy un Ingeniero de Software enfocado en construir productos digitales modernos, aplicaciones web, aplicaciones móviles y sistemas inteligentes.
 
-My work combines software engineering, product thinking, UI/UX, backend architecture, databases, APIs, automation and artificial intelligence.
+Mi trabajo combina ingeniería de software, visión de producto, UI/UX, arquitectura backend, bases de datos, APIs, automatización e inteligencia artificial.
 
-I care about building software that is not only functional, but also structured, maintainable, scalable and well designed.
+Me importa construir software que no solo sea funcional, sino también estructurado, mantenible, escalable y con un excelente diseño.
 
 ```text
-Software Engineering
-├── Full Stack Development
-├── Backend Architecture
-├── Web Applications
-├── Mobile Applications
-├── SaaS Platforms
-├── AI & Automation
-├── APIs & Integrations
-├── Databases
-└── Product Design
+Ingeniería de Software
+├── Desarrollo Full Stack
+├── Arquitectura Backend
+├── Aplicaciones Web
+├── Aplicaciones Móviles
+├── Plataformas SaaS
+├── IA y Automatización
+├── APIs e Integraciones
+├── Bases de Datos
+└── Diseño de Producto
