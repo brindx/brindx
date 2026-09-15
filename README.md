@@ -2,7 +2,7 @@
 
 # Carlos Brindis
 
-### Software Engineer  · AI · Systems
+### Software Engineer · AI · Systems
 
 Building software products with a focus on architecture, user experience, automation and scalable systems.
 
